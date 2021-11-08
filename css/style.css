@@ -100,6 +100,7 @@ margin-right: 25px;
     justify-content: space-between;
     align-items: center;
     padding: 0; 
+    flex-wrap: wrap;
 }
 .main-items{
     text-decoration: none;
