@@ -2,8 +2,8 @@
     box-sizing: border-box;
 }
 *:focus{
-    outline: 4px dotted #2959CE;
-    padding: 4px;
+    outline: 3px dotted #2959CE;
+    /* padding: 2px; */
 }
 body{
     margin: 0;
